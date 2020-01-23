@@ -1,6 +1,6 @@
 {
   "name": "@czlowiek488/queue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "package containing utilities like queues",
   "main": "index.js",
   "scripts": {
