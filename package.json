@@ -1,5 +1,5 @@
 {
-  "name": "queue",
+  "name": "@czlowiek488/queue",
   "version": "0.0.1",
   "description": "package containing utilities like queues",
   "main": "index.js",
@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Łukasz Klejszta",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czlowiek488/utility.git"
+  },
+  "keywords": [
+    "queue",
+    "priority",
+    "utility"
+  ],
+  "bugs": {
+    "url": "https://github.com/czlowiek488/utility/issues"
+  },
+  "homepage": "https://github.com/czlowiek488/utility#readme"
 }

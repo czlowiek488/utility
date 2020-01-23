@@ -1,1 +1,1 @@
-exports.priority_queue = require('./priority_queue');
+exports.priority_queue = require('./lib/priority_queue');
